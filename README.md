@@ -1,5 +1,7 @@
 # 2Q1P
 An Open source photonic quantum gateset.
+# Todo list
+At this point, mainly get the hand drawings into CAD. This is going to take some time.
 # Standards
 To standardize across the paper the following values will be used. For path defined qubits, the top path will be |0> and the bottom path will be |1>. Polarization defined qubits have the horizontal polarization as |0> and vertical as |1>. Unless otherwise specified, q[0] is a path defined qubit and q[1] is polarization.
 A note on rotations about the bloch sphere
