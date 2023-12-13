@@ -1,7 +1,15 @@
 # 2Q1P
 An Open source photonic quantum gateset.
+As of now, more than half of the required parts have been made and tested. I belive this is a sufficant proof of concept to continue on with certanty as there are only two missing parts. These parts are going to be more expensive and with better tolerances than the rest due to the lack of consumer grade versions.
 # Todo list
-At this point, mainly get the hand drawings into CAD. This is going to take some time.
+Get the hand drawings into CAD. This is going to take some time.
+Confirm errors.
+Find proper waveplates and beam joiners to complete.
+# Questions to explore later
+Can we create an effective single photon source?
+  IF so:
+    Can we get parts that switch between presets fast enough to create a time-bin qubit?
+    Need to learn to use photomultiplier tubes.
 # Standards
 To standardize across the paper the following values will be used. For path defined qubits, the top path will be |0> and the bottom path will be |1>. Polarization defined qubits have the horizontal polarization as |0> and vertical as |1>. Unless otherwise specified, q[0] is a path defined qubit and q[1] is polarization.
 A note on rotations about the bloch sphere
