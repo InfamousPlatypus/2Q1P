@@ -1,6 +1,6 @@
 # 2Q1P
 An Open source photonic quantum gateset.
-As of now, more than half of the required parts have been made and tested. I belive this is a sufficant proof of concept to continue on with certanty as there are only two missing parts. These parts are going to be more expensive and with better tolerances than the rest due to the lack of consumer grade versions.
+As of now, more than half of the required parts have been made and tested. I belive this is a suffient proof of concept to continue on with certainty as there are only two missing parts. These parts are going to be more expensive and with better tolerances than the rest due to the lack of consumer grade versions.
 # Todo list
 Find proper waveplates and beam joiners to complete.
 # Questions to explore later
